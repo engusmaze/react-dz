@@ -1,0 +1,13 @@
+.City {
+    color: #222;
+    width: 75%;
+    text-align: center;
+}
+.City h1 {
+    font-weight: bold;
+    font-size: 3em;
+}
+.City p {
+    font-weight: bold;
+    font-size: 1.12em;
+}
