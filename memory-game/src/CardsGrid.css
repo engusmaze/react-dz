@@ -1,0 +1,6 @@
+.CardsGrid {
+    display: grid;
+    width: 80%;
+    max-width: 1024px;
+    gap: 4px;
+}
